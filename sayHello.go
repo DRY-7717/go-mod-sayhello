@@ -1,6 +1,6 @@
 package learn3
 
 
-func SayHello() string  {
-    return "hello"
+func SayHello(name string) string  {
+    return "hello" + name
 }
