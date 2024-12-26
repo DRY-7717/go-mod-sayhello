@@ -1,4 +1,4 @@
-package learn-3
+package learn3
 
 
 func SayHello() string  {
